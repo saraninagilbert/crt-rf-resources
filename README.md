@@ -9,27 +9,21 @@
   
 ## Robot Framework Resources
  
-Robot Framework User Guide - General usage information 
-https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) - General usage information 
  
-Robot Framework BuiltIn – A library with built-in keywords, a resource for any basic keyword usage
-https://robotframework.org/robotframework/latest/libraries/BuiltIn.html#Create%20List
+- [Robot Framework BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html#library-documentation-top) – A library with built-in keywords, a resource for any basic keyword usage
+
+- [Excel Library](https://navinet.github.io/robotframework-excellibrary/)
  
-Excel Library – The Library Mike demonstrated
-https://navinet.github.io/robotframework-excellibrary/
- 
-Other Libraries - Other libraries that might come handy at some point
-https://robotframework.org/?tab=libraries#resources
- 
-Requests Library - If there's a need to create http requests
-https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
- 
-Xpath Cheatsheet – Great resource on how the xpath is formed for different cases
-https://devhints.io/xpath
- 
-Split String Keyword
-https://robotframework.org/robotframework/2.1.2/libraries/String.html#Split%20String
- 
+- [Other Libraries](https://robotframework.org/?tab=libraries#resources) - Other libraries that might come handy at some point
+
+- [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - If there's a need to create http requests
+
+- [String Library](https://robotframework.org/robotframework/2.1.2/libraries/String.html) - Handling Strings
+
+## General Resources 
+[XPath Cheat Sheet](https://devhints.io/xpath) – Great resource on how the xpath is formed for different cases
+
  
 ## Other tools for Development
 
@@ -45,6 +39,7 @@ https://robotframework.org/robotframework/2.1.2/libraries/String.html#Split%20St
 
 [Copado Robotic Testing Community](https://community.qentinel.com/support/home) - Forums, support, links
 [Robot Framework Slack](https://rf-invite.herokuapp.com/) - a helpful community for all RF related questions, also a CRT related channel
+[Robot Framework Forum](https://forum.robotframework.org/)
 
 
 
