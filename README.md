@@ -37,9 +37,9 @@
 
 ## Community
 
-[Copado Robotic Testing Community](https://community.qentinel.com/support/home) - Forums, support, links
-[Robot Framework Slack](https://rf-invite.herokuapp.com/) - a helpful community for all RF related questions, also a CRT related channel
-[Robot Framework Forum](https://forum.robotframework.org/)
+- [Copado Robotic Testing Community](https://community.qentinel.com/support/home) - Forums, support, links
+- [Robot Framework Slack](https://rf-invite.herokuapp.com/) - a helpful community for all RF related questions, also a CRT related channel
+- [Robot Framework Forum](https://forum.robotframework.org/)
 
 
 
