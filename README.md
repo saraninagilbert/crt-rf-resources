@@ -6,6 +6,7 @@
 - [QForce Library](https://help.pace.qentinel.com/qwords-reference/current/qwords/_attachments/QForce.html#library-documentation-top) - Keywowrd documentation for QForce, a Salesforce specific library
 - [QVision Library](https://help.pace.qentinel.com/qwords-reference/current/qwords/_attachments/QVision.html#library-documentation-top) - Keyword documentation for QVision
 - [All QWords](https://help.pace.qentinel.com/qwords-reference/current/qwords/all.html) - All Copado QWords
+- [Set up MFA for testing](https://help.pace.qentinel.com/qwords-reference/current/qwords/_attachments/QForce.html#mfa-setup)
   
 ## Robot Framework Resources
  
