@@ -26,7 +26,9 @@
 [XPath Cheat Sheet](https://devhints.io/xpath) – Great resource on how the xpath is formed for different cases
 
  
-## Other tools for Development
+## Local Setup 
+
+[Instructions for Local setup](https://docs.copado.com/articles/#!copado-robotic-testing-publication/on-premise-setup-1/q/on-premise/qid/33341/qp/1)
 
 ### VS Code for local development
 [VS Code - Free](https://code.visualstudio.com/)
