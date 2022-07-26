@@ -26,7 +26,9 @@
 [XPath Cheat Sheet](https://devhints.io/xpath) – Great resource on how the xpath is formed for different cases
 
  
-## Local Setup 
+## Developing locally
+
+*NOTE!* You will need a plan to use QConnect for local development.
 
 [Instructions for Local setup](https://docs.copado.com/articles/#!copado-robotic-testing-publication/on-premise-setup-1/q/on-premise/qid/33341/qp/1)
 
