@@ -11,15 +11,10 @@
 ## Robot Framework Resources
  
 - [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) - General usage information 
- 
 - [Robot Framework BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html#library-documentation-top) – A library with built-in keywords, a resource for any basic keyword usage
-
 - [Excel Library](https://navinet.github.io/robotframework-excellibrary/)
- 
 - [Other Libraries](https://robotframework.org/?tab=libraries#resources) - Other libraries that might come handy at some point
-
 - [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - If there's a need to create http requests
-
 - [String Library](https://robotframework.org/robotframework/2.1.2/libraries/String.html) - Handling Strings
 
 ## General Resources 
